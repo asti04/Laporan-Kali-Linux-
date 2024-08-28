@@ -1,8 +1,8 @@
-# Laporan-Kali-Linux-
+![image](https://github.com/user-attachments/assets/29198b44-6f1b-4c51-b626-3ec1ecec04cb)# Laporan-Kali-Linux-
 
-Nama : Asti Ratna Shely
-NIM : 09030582226027
-Kelas : TK5A
+**Nama : Asti Ratna Shely**
+**NIM : 09030582226027**
+**Kelas : TK5A**
 
 Laporan Kali Linux 
 
@@ -31,6 +31,7 @@ Laporan Kali Linux
 
 10. jika berhasil maka akan ditampilkan Kali Linux
 
+![Gambar WhatsApp 2024-08-28 pukul 22 14 27_073c7792](https://github.com/user-attachments/assets/f7ed3f85-0408-4a27-b0d5-5cdc790f3865)
 
 
 
